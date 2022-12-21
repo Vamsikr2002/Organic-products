@@ -1,7 +1,7 @@
 # Organic-products
-Azure  Microsoft Project
-Project Link:
-Demo Video Link:
+# Azure  Microsoft Project
+# Project Link:
+# Demo Video Link:
 
 ## Home
 
