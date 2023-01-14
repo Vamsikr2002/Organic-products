@@ -3,7 +3,9 @@
 - Project Link:https://lively-coast-073e2cb00.2.azurestaticapps.net/
 - Demo Video Link:https://www.youtube.com/watch?v=S9hm8MHeIlM
 ## Problem Statement
+Now a days as we see lot of people got of people are facing health issues due to unhealthy food, so to overcome this we will collect all the organic products from expert farmers and will sell it to people who wants them
 ## Problem Description
+The core idea for making this project is to provide healthy food products for people ,our website also provides the detailed information regarding how our expert farmers grow the products from the small plants to. We have also bot services in our project so the customers can get the detail information 24 hours without any delay. 
 ## Features and Functionalities:
 - This project has collection of many web pages including Home, About Us,Contact, Menu, health topics and health related information etc.
 - Included the feedback Survey form to increase the scope of improvement.
