@@ -8,22 +8,25 @@
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-## Home
-![1](https://user-images.githubusercontent.com/115055314/208844441-a0f38c86-0b41-4756-b018-63609f9610c3.jpg)
-![2](https://user-images.githubusercontent.com/115055314/208844457-c425c1e2-1a7b-4368-a362-543fd2c6e6ee.jpg)
-![3](https://user-images.githubusercontent.com/115055314/208844468-c3f3787c-7f8f-4ffe-a38f-6d321696c453.jpg)
-## About
-![4](https://user-images.githubusercontent.com/115055314/208844475-7b3f3fa2-d9b0-4d64-8fdf-9fbea0310993.jpg)
-![5](https://user-images.githubusercontent.com/115055314/208844486-b28d0193-b064-451f-b75f-5f8963d5e49c.jpg)
-## Services
-![6](https://user-images.githubusercontent.com/115055314/208844499-1cfc641d-6558-473a-82fd-ae054201c724.jpg)
-![7](https://user-images.githubusercontent.com/115055314/208844506-d1bed29f-3f9d-4fa6-996d-53ce50a14d6e.jpg)
-
-## Contact
-![8](https://user-images.githubusercontent.com/115055314/208844509-4d8e8313-9087-4ee1-96e5-144f5633a2d0.jpg)
- 
+## Home Page Details
+![1](https://user-images.githubusercontent.com/115055314/212476415-bb94c627-3cb1-4cfc-a990-57edad74dd23.png)
+![2](https://user-images.githubusercontent.com/115055314/212476428-09988ff9-b4a5-496c-8ba1-8e3b26b15f6e.png)
+![3](https://user-images.githubusercontent.com/115055314/212476441-fb2dac64-ba8b-4222-8695-fb5a890edab7.png)
+## About Page Details
+![5](https://user-images.githubusercontent.com/115055314/212476451-c180c316-0269-4e24-a56b-6e5b1650b4d2.png)
+![6](https://user-images.githubusercontent.com/115055314/212476455-6670ff09-367f-4049-88af-0791a2408194.png)
+![7](https://user-images.githubusercontent.com/115055314/212476458-4c3c5fe7-9d02-474c-ae25-bb8e4b5e2b81.png)
+![8](https://user-images.githubusercontent.com/115055314/212476465-3df64e90-819e-47d5-a3a3-818f5ea62190.png)
+## Services Page Details
+![9](https://user-images.githubusercontent.com/115055314/212476469-0b253205-7a7f-4fbf-b2f9-cc226b7bef8d.png)
+![10](https://user-images.githubusercontent.com/115055314/212476474-ff13f063-66ef-4bc4-9e6d-5dd4b23f88e3.png)
+![11](https://user-images.githubusercontent.com/115055314/212476484-6cf25fa3-fc2e-43a3-95f5-baa83fdc9a67.png)
+## Contact Page Details
+![12](https://user-images.githubusercontent.com/115055314/212476486-7cc4b2ab-06d2-4418-a347-c162a19414c0.png)
+![13](https://user-images.githubusercontent.com/115055314/212476488-f9c35bb5-aafa-447a-a413-e055b9d6bb57.png)
 ## Azure Bot
-![9](https://user-images.githubusercontent.com/115055314/208844511-22c759e8-4867-477f-9381-c589652590c6.jpg)
+![4](https://user-images.githubusercontent.com/115055314/212476449-c63dfb6c-ae3b-4274-8a69-cbad7720aa69.png)
+![14](https://user-images.githubusercontent.com/115055314/212476490-ec628de1-7f2d-4dfd-ab4b-77621b239481.png)
 ## Services Used
 - Azure Bot
 - Static Webapps
