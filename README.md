@@ -24,7 +24,7 @@
 ## Contact Page Details
 ![12](https://user-images.githubusercontent.com/115055314/212476486-7cc4b2ab-06d2-4418-a347-c162a19414c0.png)
 ![13](https://user-images.githubusercontent.com/115055314/212476488-f9c35bb5-aafa-447a-a413-e055b9d6bb57.png)
-## Azure Bot
+## Azure Healthbot Details
 ![4](https://user-images.githubusercontent.com/115055314/212476449-c63dfb6c-ae3b-4274-8a69-cbad7720aa69.png)
 ![14](https://user-images.githubusercontent.com/115055314/212476490-ec628de1-7f2d-4dfd-ab4b-77621b239481.png)
 ## Services Used
